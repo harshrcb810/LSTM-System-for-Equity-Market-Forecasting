@@ -23,7 +23,7 @@ from sklearn.metrics import classification_report, accuracy_score
 
 warnings.filterwarnings('ignore')
 
-# Page config
+# Page configration
 st.set_page_config(
     page_title="StockSense Pro",
     page_icon="📈",
